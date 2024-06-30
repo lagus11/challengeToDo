@@ -1,7 +1,7 @@
 # Challenge Application ToDo
 
 ## Introducción
-Este proyecto de lista de tareas ToDo es construida con React 18.3.1 y utiliza el almacenamiento local del navegador para gestionar tareas de manera sencilla. 
+Este proyecto de lista de tareas ToDo es construida con React 18.3.1, Vite y utiliza el almacenamiento local del navegador para gestionar tareas de manera sencilla. 
 Donde cuenta con acciones como Visualizar, Agregar, Editar y Eliminar ToDos y Así como crear SubToDos dentro de ToDo.
 
 
